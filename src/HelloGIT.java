@@ -4,6 +4,6 @@ public class HelloGIT 	{
 
 	public static void main( String arg[] )	{
 		
-		System.out.println( "Bonjour GIT monde 4 !!" );
+		System.out.println( "Bonjour GIT monde 5 !!" );
 	}
 }
