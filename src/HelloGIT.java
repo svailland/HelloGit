@@ -7,6 +7,7 @@ public class HelloGIT 	{
 		// modification 1 dans la branche master
  		// modification 1 dans la branche de dev
 		// modification 2
+		// modification 3
 		System.out.println( "Bonjour GIT monde !!" );
 	}
 }
