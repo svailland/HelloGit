@@ -18,6 +18,7 @@ public class HelloGIT 	{
 		// modification 7
 		// modification 8
 		// modification 9
+		// modification 10
 		System.out.println( "Bonjour GIT monde !!" );
 	}
 }
