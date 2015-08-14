@@ -16,6 +16,7 @@ public class HelloGIT 	{
 		// modification 3 domaine storage
 		// modification 4 domaine storage
 		// modification 7
+		// modification 8
 		System.out.println( "Bonjour GIT monde !!" );
 	}
 }
