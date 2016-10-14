@@ -24,6 +24,7 @@ public class HelloGIT 	{
 		// modification 11	
 		
 		// dev3 modif 1
+		// dev3 modif 2
 		System.out.println( "Bonjour GIT monde !!" );
 	}
 }
