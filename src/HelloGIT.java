@@ -22,6 +22,8 @@ public class HelloGIT 	{
 		// modification 1 domaine usb
 		// modification 2 domaine usb
 		// modification 11	
+		
+		// dev3 modif 1
 		System.out.println( "Bonjour GIT monde !!" );
 	}
 }
